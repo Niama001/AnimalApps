@@ -40,7 +40,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the Twitch app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://github.com/Niama001/AnimalApps/blob/62db5b04159cbf4acb6fa74aa7cbc84e2ab50613/Screenshot%202024-03-12%20003937.jpg' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
