@@ -46,7 +46,7 @@ I have chosen to duplicate the following layout from the Twitch app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/Niama001/AnimalApps/blob/62db5b04159cbf4acb6fa74aa7cbc84e2ab50613/AnimalApps.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
